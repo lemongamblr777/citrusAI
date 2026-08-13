@@ -1,2 +1,2 @@
 # citrusAI
-beta testing version 0.1
+alpha (kinda beta???) testing version 0.2
